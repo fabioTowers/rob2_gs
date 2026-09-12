@@ -217,6 +217,8 @@ This facilitates the discrepancy check between two reviewers' answers and allows
 
 3. Both reviewers' answers should be displayed side-by-side. Judgements will be highlighted with a red border if the judgements reached by the two reviewers are different.
 
+![Disagreement example](images/discrepancy_check_disagreement.png)
+
 4. Edit Consensus with final decisions and save. Results can then be produced using the ‘Summary’, ‘Figures’ and ‘Print’ functions as described previously.
 
 > [!NOTE]
